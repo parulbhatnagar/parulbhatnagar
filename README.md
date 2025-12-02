@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @parulbhatnagar
 - 👀 I’m interested in any code, any language
-- 🌱 I’m currently learning streaming frameworks and new blockchain tech
 - 💞️ I’m looking to collaborate on opensource projects
 - 📫 How to reach me parulbhatnagar@gmail.com
 
