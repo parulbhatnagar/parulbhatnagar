@@ -1,9 +1,18 @@
-- 👋 Hi, I’m @parulbhatnagar
-- 👀 I’m interested in any code, any language
-- 💞️ I’m looking to collaborate on opensource projects
-- 📫 How to reach me parulbhatnagar@gmail.com
+### Hi, I'm Parul 👋
 
-<!---
-parulbhatnagar/parulbhatnagar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a VP at Morgan Stanley with 21 years in backend engineering and the last 3 in production AI. I build RAG systems, agentic workflows, and internal AI developer platforms — and run hands-on workshops to help engineering orgs adopt them.
+
+🔭 **What I work on**
+- Production RAG systems (LangChain / LangGraph, AWS)
+- Multi-step agent pipelines (LangGraph, Claude SDK)
+- Internal AI developer platforms — prompt management, MCP server generation, YAML agent workflow studios
+- Developer Experience and AI adoption at scale (150+ engineers)
+
+🛠️ **Stack I reach for**
+Python · LangChain · LangGraph · Claude SDK · MCP · AWS · Java / Spring Boot · Prometheus · Grafana
+
+🌱 **Currently exploring** — Spec-Driven Development, MCP server patterns, multi-agent orchestration
+
+📫 **Reach me** — [LinkedIn](https://www.linkedin.com/in/bhatnagarparul) · parulbhatnagar@gmail.com
+
+📍 Bangalore, India
